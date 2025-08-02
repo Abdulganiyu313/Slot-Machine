@@ -25,5 +25,5 @@ A fun and interactive terminal-based Slot Machine game built with Python! This p
 
 1. **Clone the repository**
    
-   git clone https://github.com/your-username/slot-machine-game.git
+   git clone https://github.com/Abdulganiyu313/slot-machine-game.git
    cd slot-machine-game
